@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Starter_Code/Images/map_screenshot_streetmap.jpg" alt="Map Screenshot" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border-radius: 15px; border: 2px solid #333; padding: 10px;">
+  <img src="Images/map_screenshot_streetmap.jpg" alt="Map Screenshot" style="border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; height: auto;">
 </div>
 
 # USGS - Earthquake Visualization Project
