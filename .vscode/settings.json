@@ -1,0 +1,9 @@
+{
+    // This setting configures the Live Server extension in Visual Studio Code
+    // It specifies the port number on which the local development server will run
+
+    // Port 5501 is chosen instead of the default 5500
+    // This can be useful if port 5500 is already in use by another application
+    // or if you want to run multiple live servers simultaneously
+    "liveServer.settings.port": 5501
+}
