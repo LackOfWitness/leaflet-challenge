@@ -88,7 +88,7 @@ The legend in the image appears to be a layer control panel rather than a tradit
 - Create additional data overlays (e.g., population density, fault lines)
 
 ## Contributors
-Sergei Sergeev - ssergeev@gmail.com
+Sergei Sergeev - sergei.sergeev.n@gmail.com
 
 ## License
 This project is licensed under the MIT License - see the (LICENSE) file for details.
