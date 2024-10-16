@@ -41,7 +41,7 @@ This project visualizes earthquake data from the United States Geological Survey
 
 ## Setup and Usage
 1. Clone this repository
-2. Open `/Leaflet-challenge/Starter_Code/index.html` in a web browser to view the earthquake visualization
+2. Open [`/Leaflet-challenge/Starter_Code/index.html`](Starter_Code/index.html) in a web browser to view the earthquake visualization
 
 ## Legend
 - The legend is located in the bottom left corner of the map.
